@@ -1,0 +1,1 @@
+# solasta-alwaysready
