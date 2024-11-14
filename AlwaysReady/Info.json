@@ -1,0 +1,10 @@
+{
+  "Id": "AlwaysReady",
+  "DisplayName": "AlwaysReady",
+  "Author": "fl01",
+  "Version": "1.0.0",
+  "AssemblyName": "AlwaysReady.dll",
+  "EntryMethod": "AlwaysReady.AlwaysReady.Load",
+  "HomePage": "https://github.com/fl01/solasta-alwaysready",
+  "Repository": "https://github.com/fl01/solasta-alwaysready/main/Repository.json"
+}
